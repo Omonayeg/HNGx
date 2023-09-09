@@ -16,3 +16,15 @@ img {
 h1, h3, p {
     padding: 20px;
 }
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+
+a:hover {
+    font-size: 1.1rem;
+    transition: ease-in-out;
+    text-decoration: underline;
+}
