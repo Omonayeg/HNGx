@@ -44,7 +44,7 @@
           undefined,
           options
         );
-        const formattedTime = currentDate.toLocaleTimeString();
+        const formattedTime = currentDate.getTime();
 
         dayElement.textContent = `Current Day: ${formattedDate}`;
         timeElement.textContent = `Current Time: ${formattedTime}`;
