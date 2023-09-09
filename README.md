@@ -1,7 +1,7 @@
 # HNGx
 
 ## Herein lies all the tasks carried out in HNGx. 
-## Each task is saved in its own branch with the branch name saved as the task number.
+## Each task is saved in its own branch, with the branch name saved as the task number.
 
 ## You can copy this codebase and build on it or do whatever you want.
 
@@ -10,12 +10,12 @@
 
 2. Navigate to the terminal (pointing to your project folder/directory), Clone and then open it up on your prefered code editor
 ```bash 
-git clone https://github.com/<your github username>/Team_21-Price-Compare.git
+git clone https://github.com/Omonayeg/HNGx.git
 ```
 
 3.  Open terminal and set upstream branch:  
 ```bash 
-git remote add upstream https://github.com/zuri-training/Team_21-Price-Compare.git
+git remote add upstream https://github.com/Omonayeg/HNGx.git
 ```
 
 4.  Pull upstream to get the latest update from the original repo (https://github.com/Omonayeg/HNGx.git)
