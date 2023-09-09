@@ -18,7 +18,7 @@ git clone https://github.com/<your github username>/Team_21-Price-Compare.git
 git remote add upstream https://github.com/zuri-training/Team_21-Price-Compare.git
 ```
 
-4.  Pull upstream to get the latest update from the original repo (https://github.com/zuri-training/Team_21-Price-Compare.git)
+4.  Pull upstream to get the latest update from the original repo (https://github.com/Omonayeg/HNGx.git)
 ```bash
 git pull upstream main
 ```
